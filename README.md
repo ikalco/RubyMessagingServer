@@ -1,4 +1,4 @@
-Ruby Messaging Server With WebSockets
+Ruby Messaging App With The Web
 ===================================
 
 What It Is
