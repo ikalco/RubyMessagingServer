@@ -6,7 +6,7 @@ What It Is
 - A messaging app made with HTML and JavaScript
 - A WebSocket and HTTP Server made with Ruby
 
-How To Use
+How To Use It
 ------------
 - To use this server you need to first [download](https://github.com/ikalco/RubyMessagingServer/archive/refs/heads/main.zip) this repository:
 
