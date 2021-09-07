@@ -16,5 +16,4 @@ How To Use
 
 		ruby users_ws_server.rb
 		
-- Then you open it in your web borwser
-- [localhost:5500](http://localhost:5500)
+- Then you open it in your web borwser [localhost:5500](http://localhost:5500)
