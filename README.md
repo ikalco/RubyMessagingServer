@@ -15,3 +15,6 @@ How To Use
 - To start the server you simply need to run:
 
 		ruby users_ws_server.rb
+		
+- Then you open it in your web borwser
+- localhost:5500
