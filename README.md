@@ -1,10 +1,10 @@
 Ruby Messaging Server With WebSockets
 ===================================
 
-About
+What It Is
 ------------
-- A messaging app that uses Ruby and WebSockets
-- Also acts as an http server
+- A messaging app made with HTML and JavaScript
+- A WebSocket and HTTP Server made with Ruby
 
 How To Use
 ------------
