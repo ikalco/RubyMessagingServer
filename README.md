@@ -12,7 +12,7 @@ How To Use
 
 		git clone https://github.com/ikalco/RubyMessagingServer.git
 
-- To start the server you simply need to run:
+- To start the server you simply need to run this command from where you cloned the repository
 
 		ruby users_ws_server.rb
 		
