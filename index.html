@@ -1,0 +1,38 @@
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" type="text/css" href="./style.css">
+  <meta charset="utf-8">
+  <title>Messaging App</title>
+</head>
+
+<body>
+  <script src="./index.js"></script>
+
+  <div id="loginform" style="display: block;">
+
+    <h2>Login Form</h2>
+
+    <form action="#" onsubmit="login();return false;" autocomplete="off">
+      <div class="container">
+        <label for="uname"><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" id="uname" required>
+
+        <button type="submit">Login</button>
+      </div>
+    </form>
+  </div>
+
+  <div id="messagingapp" style="visibility: hidden;">
+
+    <div id="messages">
+    </div>
+
+    <form onsubmit="newElement();return false;" autocomplete="off" id="msgForm">
+      <input id="input"></input>
+      <button id="submitButton">Send Message</button>
+    </form>
+  </div>
+</body>
+
+</html>
